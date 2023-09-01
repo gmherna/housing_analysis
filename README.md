@@ -5,4 +5,4 @@ Using a housing database from Kaggle.com, clean and designate two factors to sta
 The two factors used is houses with pools and year they were built.
 
 Conduct statistical analysis with Excel to determine any significant impact and create and appropriate graphic for presentation.
-Create a presentation with PowerPoint with the target audience of key stakeholders of investing money in mortgage-backed loans.
+Create a presentation with PowerPoint to provide recommendations to key stakeholders on how to invest money in mortgage-backed securities.
